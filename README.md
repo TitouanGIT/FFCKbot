@@ -1,2 +1,2 @@
 # FFCKbot
-FFCKbot is a discord bot for argenised kayaking competition
+FFCKbot is a discord bot for organized kayaking competition
