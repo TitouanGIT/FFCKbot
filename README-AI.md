@@ -2,7 +2,7 @@
   <img src="http://www.ffcanoe.asso.fr/renseigner/images/logo_ffck_2014/LOGO_FFCK.gif)" width="20%" alt="FFCKBOT.GIT-logo">
 </p>
 <p align="center">
-    <h1 align="center">FFCKBOT.GIT</h1>
+    <h1 align="center">FFCKBOT</h1>
 </p>
 <p align="center">
     <em><code>❯ REPLACE-ME</code></em>
